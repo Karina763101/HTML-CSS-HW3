@@ -548,12 +548,27 @@ h2, h3{
         height: 100px;
     }
 
+    .container2 p{
+        width: 90%;
+        display: block;
+        margin-left: 5%;
+    }
+
+    .container4-1 .block1, .container4-1 .block2 {
+        width: 90%;
+        margin-left: 5%;
+    }
+
     .container5-1 .application .app {
         margin-left: 0;
     }
 
     .container6-1 .application .app img {
         padding-left: 0;
+    }
+
+    .container6-1 .application .content_left {
+        margin-left: 5%;
     }
 
     .application h2 {
